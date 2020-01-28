@@ -9,6 +9,5 @@ def oxford_comma(array)
       array.join(', ')
     else 
       nil 
-   
-
+   end
 end
